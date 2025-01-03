@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**SanderCC/SanderCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sander**, a passionate developer with a diverse skill set and a love for creating innovative solutions. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌟 **Favorite Technologies**: .NET & ReactJS
+- 💼 **Current Work**: .NET & VueJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Frontend**: ReactJS, VueJS, AngularJS, JavaScript, TypeScript
+- **Backend**: .NET, Java, Spring, Python, PHP
+- **Databases**: MongoDB, SQL Server, MySQL, etc.
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sanderconstantin)
+
+Feel free to connect with me and check out my projects!
